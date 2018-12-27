@@ -14,7 +14,7 @@ except FileNotFoundError:
     print("can't find python README; skipping")
 
 setup(
-    name='sucks-ha',
+    name='sucks_ha',
     version='0.9.3',
 
     description='a library for controlling certain robot vacuums',
